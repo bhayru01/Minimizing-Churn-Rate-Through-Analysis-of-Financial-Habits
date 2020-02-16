@@ -15,6 +15,7 @@ These features can increase the engagement and interest of our users towards the
 
 # Data
 Description of each Columns
+
 userid - MongoDB userid
 churn  - Active = No | Suspended < 30 = No Else Churn = Yes
 age - age of the customer
